@@ -15,7 +15,6 @@ Built independently on public data only, with AI assistance; I reviewed and test
 
 ## Results
 Top 3 candidates: [1068-1087,1066-1085,1071-1090]
-[Optional: BLAST off-target check on the top candidates: table of candidate, best off-target hit, identity. Only include if you ran it.]
 
 ![Top candidates](aso_top_candidates.png)
 
